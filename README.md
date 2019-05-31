@@ -2,7 +2,6 @@
 <html>
 <head>
     <title>A Cool Form</title>
-    <link href="silver_city.css" rel=stylesheet type="text/css">
 </head>
 <body bgcolor="#DCDCDC">
     <div>
