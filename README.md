@@ -25,7 +25,7 @@
     </div>
     <div>
     <h4>Current Zip Code:</h4>
-        Zip Code: <input type="text" name="zip code" maxlength=10px><br>
+        Zip Code:<input type="text" name="zip code" maxlength=10px><br>
     </div>
     <div>
     <h4>How often do you visit Silver City?</h4>
