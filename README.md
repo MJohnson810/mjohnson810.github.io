@@ -50,7 +50,7 @@
     </div>
     <div>
     <h4>Additional comments or suggestions:</h4>
-        <textarea rows="6" cols="100"> </textarea>
+       <textarea rows="6" cols="100"></textarea>
     </div>
     <div>
     <h4>Enter your email address below to receive occasional information on what is happening in downtown Silver City</h4>
