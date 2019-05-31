@@ -10,7 +10,6 @@
     <p>Silver City serves as the shopping desitination and work location for many residents in outlying communities. With it's old time western village a steam engine ride through an old silver mine, and a brand new water park this city also serves as a popular tourist attraction. <br><br>
     Please complete this short survey below to help our city better serve the residents and visitors in the downtown area.</p>
     </div>
-    
     <form name="formtest" method="post" action="https://elearn.usu.edu/courses/itls-5265/forms/form_results.php">
         <!-- Put your form code here. -->
     <div>
